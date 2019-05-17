@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="name">亀岡夏海</string>
+    <string name="title">暁の水平線に勝利を!</string>
+    <string name="start">开始</string>
+    <string name="timedefault">00:00</string>
+</resources>
